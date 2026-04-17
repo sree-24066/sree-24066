@@ -1,5 +1,25 @@
-github-Sree-24066
-devpost-Sree-24066
-leetcode-Sree-24066
-HackerRank-Sree-24066
+# Hey, I'm Sreekanth S
 
+   B.Tech AI & Data Science Student at Amrita Vishwa Vidyapeetham  
+   Palakkad, Kerala  
+
+---
+
+##  About Me
+-   Passionate about Artificial Intelligence and real-world problem solving  
+-   Building AI + IoT based projects  
+-   Currently learning Deep Learning and LLMs  
+-   Goal: To become a strong AI Engineer  
+
+---
+
+##  Current Focus
+-   Computer Vision (OpenCV, YOLO)
+-   LLMs (LangChain, Hugging Face)
+-   Full Stack (React + Backend)
+
+---
+
+##  Contact
+-  xsreekanth756@gmail.com
+-  [LinkedIn](https://linkedin.com/in/Sreekanth-S-MA242005)
