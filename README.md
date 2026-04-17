@@ -1,11 +1,11 @@
-# Hey....
+> **LEARN • LEVERAGE • LEAD**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SREEKANTH+S;LEARN+-+LEVERAGE+-+LEAD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Dedication+trumps+skill+when+skill+is+left+unrefined.;SREEKANTH+S" />
 </p>
 
- B.Tech AI & Data Science Student at Amrita Vishwa Vidyapeetham  
- Kollam, Kerala  
+ B.Tech AI & Data Science Student  
+ Kollam, Kerala, India  
 
 ---
 
