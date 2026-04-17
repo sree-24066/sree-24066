@@ -1,7 +1,7 @@
 # Hey, I'm Sreekanth S
 
    B.Tech AI & Data Science Student at Amrita Vishwa Vidyapeetham  
-   Palakkad, Kerala  
+   Kollam, Kerala  
 
 ---
 
